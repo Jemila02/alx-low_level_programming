@@ -7,17 +7,17 @@
 int main(void)
 {
 	int n = 97;
-	int o = 65;
+	int m = 65;
 
 	while (n <= 122)
 	{
 		putchar(n);
 		n++;
 	}
-	while (o <= 90)
+	while (m <= 90)
 	{
-		putchar(0);
-		n++;
+		putchar(m);
+		m++;
 	}
 	putchar('\n');
 	return (0);
