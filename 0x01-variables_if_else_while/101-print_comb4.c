@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-*Main - Entry point
+*main - Entry point
 *Description: 'Prints all possible different combinations of three digits'
 *Return: Always 0
 */
