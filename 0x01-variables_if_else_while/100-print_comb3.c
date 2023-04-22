@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
-*main - Entry point
-*Description: 'prints all possible different combinations of two digits'
-*Return: always 0
+*Main - Entry point
+*Description: 'Prints all possible different combinations of two digits'
+*Return: Always 0
 */
 int main(void)
 {
